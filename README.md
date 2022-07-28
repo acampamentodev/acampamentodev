@@ -4,7 +4,7 @@ Quer dar os primeiros passos ou aprender mais sobre programação? Então esse �
 
 ### Aproveite e siga o Acampamento Dev:
 
-- [🌐 Blog do Acampamento Dev](https://dev.to/acampamentodev)
+- [🌐 Blog do Acampamento Dev](https://acampamentodev.hashnode.dev/)
 - [📷 Instagram](https://www.instagram.com/acampamentodev/)
 - [📺 Youtube](https://www.youtube.com/channel/UC8HZh4LbcPFnA_sEwPCRJuw)
 
